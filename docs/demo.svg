@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="474" viewBox="0 0 900 474">
+<rect width="900" height="474" rx="12" fill="#0d141e"/>
+<path d="M12 0h876a12 12 0 0 1 12 12v43H0V12A12 12 0 0 1 12 0" fill="#131e2b"/>
+<circle cx="34" cy="27" r="4" fill="#5df1c6"/>
+<g font-family="Consolas, monospace" font-size="17" xml:space="preserve">
+<text x="52" y="33" fill="#8aa3b6">GAME MEMORY LAB   /   SESSÃO NO WINDOWS</text>
+<text x="30" y="88" fill="#5df1c6">&gt; scan</text><text x="30" y="116" fill="#d7e8f2">3 candidatos com HP 100 -&gt; 1 com HP 87 | endereço 0x2CC77FF0980</text><text x="30" y="144" fill="#5df1c6">&gt; fire</text><text x="30" y="172" fill="#d7e8f2">HP  52 | municao 5 | drones 2</text><text x="30" y="200" fill="#5df1c6">&gt; freeze</text><text x="30" y="228" fill="#d7e8f2">Freeze ligado. O trainer reescreve HP = 100 a cada 30 ms.</text><text x="30" y="256" fill="#5df1c6">&gt; hit</text><text x="30" y="284" fill="#d7e8f2">HP  87 | municao 5 | drones 2</text><text x="30" y="312" fill="#5df1c6">&gt; status</text><text x="30" y="340" fill="#d7e8f2">HP 100 | municao 5 | drones 2</text><text x="30" y="368" fill="#5df1c6">&gt; off</text><text x="30" y="396" fill="#d7e8f2">Freeze desligado.</text><text x="30" y="424" fill="#5df1c6">&gt; hit</text><text x="30" y="452" fill="#d7e8f2">HP  87 | municao 5 | drones 2</text>
+</g></svg>
